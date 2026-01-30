@@ -1,4 +1,4 @@
-### This is a project accompanying Nginx
+### Nginx Project
 
 ##### start nginx
 
